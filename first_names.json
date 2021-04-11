@@ -1,6 +1,6 @@
 {
-  "$schema": "http://docfoxschemas.com/schemas/docfox_schema.json",
-  "$id": "http://docfoxschemas.com/schemas/first_names.json",
+  "$schema": "https://bradleymarques.github.io/base_schema.json",
+  "$id": "https://bradleymarques.github.io/first_names.json",
   "title": "First Names",
   "description": "An individual's first names",
   "slug": "first_names",
