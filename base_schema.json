@@ -3,35 +3,5 @@
   "$id": "https://bradleymarques.github.io/base_schema.json",
   "title": "The DocFox JSON Schema",
   "description": "Definitions for all DocFox data fields",
-  "type": "object",
-  "definitions": {
-    "first_names": {
-      "id": "#first_names",
-      "slug": "first_names",
-      "title": "First Names",
-      "description": "An individual's first names and middle names",
-      "type": "object",
-      "properties": {
-        "value": {
-          "type": "string",
-          "minimum": 1,
-          "maximum": 255
-        }
-      }
-    },
-    "last_names": {
-      "id": "#last_names",
-      "slug": "last_names",
-      "title": "Last Names",
-      "description": "An individual's last names",
-      "type": "object",
-      "properties": {
-        "value": {
-          "type": "string",
-          "minimum": 1,
-          "maximum": 255
-        }
-      }
-    }
-  }
+  "type": "object"
 }
