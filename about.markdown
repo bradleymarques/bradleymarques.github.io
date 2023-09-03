@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Brad, a software engineer who loves building things.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I've mainly focussed on full-stack web development in Ruby on Rails and Python,
+but I also like building games in things like Unity3D and Godot.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I also like history. I happen to be a self-taught expert in the history of China
+during the Sui Dynasty (581 - 618), and have written a book set in that time. I
+am also really interested in the Norman conquest of Southern Italy (999 - 1139),
+and hope to write about that someday too.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Here's some things I find interesting. Maybe you will too?
