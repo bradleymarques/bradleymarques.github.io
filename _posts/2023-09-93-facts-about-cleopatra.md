@@ -5,30 +5,32 @@ date:   2023-09-03 15:30:00 +0200
 categories: history
 ---
 
-I love learning about misconceptions, and there are many surrounding Cleopatra,
-the ruler of Egypt from 51 BCE to 30 BCE.
+![Cleopatra VII Thea Philopator][/assets/images/cleopatra.jpg]
 
-## 1. She wasn't Egyptian
+Cleopatra VII Thea Philopator, the last pharaoh of Ancient Egypt, has captivated historians, artists, and storytellers for centuries. However, numerous misconceptions have also arisen around her. Here are some of the most prevalent myths and the truths behind them:
 
-Yup. She was actually Macedonian Greek, a member of the
-[Ptolemaic dynasty](https://en.wikipedia.org/wiki/Ptolemaic_dynasty). This
-dynasty ruled the [Ptolemaic Kingdom](https://en.wikipedia.org/wiki/Ptolemaic_Kingdom)
-in Ancient Egypt from 305 BCE to 30 BCE (if you're concentrating, you'll have
-noticed that our queen in question was the last ruler of the dynasty).
+### 1. She was not Egyptian
 
-[Alexander the Great]() has
+Despite ruling over Egypt and being associated predominantly with Egyptian culture, Cleopatra wasn't ethnically Egyptian. Hailing from the Macedonian Greek lineage, she belonged to the [Ptolemaic dynasty](https://en.wikipedia.org/wiki/Ptolemaic_dynasty). Yet, she distinguished herself from her predecessors by embracing Egyptian customs and being the first Ptolemaic ruler to speak the Egyptian language, strengthening her bond with her subjects.
 
-## 2. She (probably) wasn't all that beautiful
+### 2. She was the result of incest
 
-Cleopatra is often famed for her beauty, but she probably wasn't all that beautiful.
-As mentioned, she came from a long line of incest (her parents may have been
-siblings). The myth of her being a beautiful seductress was propaganda spread by
-Octavian, an opponent of Cleopatra's lover, Marcus Antonius.
-Octavian wanted to paint the picture that Mark Anthony had been seduced by an
-exotic seductress and could therefore not be trusted by the Roman people.
+To keep their bloodline pure and maintain political control, members of the Ptolemaic dynasty often married within their family. Cleopatra's own lineage is testament to this — she married two of her brothers (whom she outlived) and is believed to be the product of an incestuous relationship.
 
-## 3. She (probably) did not eat pearls in vinegar
+### 3. She probably wasn't all that beautiful
 
-## 4. She (probably) did not die by letting a snake bite her breast
+While movies and literature often portray Cleopatra as a breathtaking beauty, historical records suggest that her charm might have been more about intelligence, wit, and charisma rather than physical beauty. The portrayal of Cleopatra as a seductive beauty might have been a narrative crafted by her political enemies, particularly [Octavian](https://en.wikipedia.org/wiki/Augustus).
 
-The notion that she committed suicide by putting an asp (snake) to her breast is a myth. She likely poisoned herself. The poison however, probably did come from a snake.
+### 4. She probably didn't eat pearls in vinegar
+
+The tale of Cleopatra dissolving a pearl in vinegar and drinking it to win a bet against Mark Antony might be more of an allegory (misinformation spread by [Pliny the Elder](https://en.wikipedia.org/wiki/Pliny_the_Elder)) about her extravagant wealth and the lengths to which she'd go to prove a point than a historical fact.
+
+### 5. She was much more than a lover
+
+Beyond her romantic associations with powerful figures like Julius Caesar and Mark Antony, Cleopatra was a savvy political operator. Her alliances were strategic, aiming to bolster Egypt's position on the global stage and resist Roman imperialism.
+
+### 6. The Dramatic End: Fact Versus Fiction
+
+While tales of Cleopatra's suicide by snake bite have captured the popular imagination, thanks in part to dramatizations by the likes of William Shakespeare, the truth might be more subdued. Historical evidence suggests a likely poisoning, although the exact circumstances remain a topic of debate.
+
+Cleopatra's story, though clouded by myths, is a testament to her prowess as a leader, diplomat, and strategist. Her legacy, transcending her life's controversies, highlights her ability to navigate the treacherous political landscape of her time, leaving an indelible mark on history.
